@@ -3,6 +3,7 @@
 	* AUTHOR - TENSORED
 	* DATE - 7/7/2018
 	* ORDER - O(n)
+	* DATA STRUCTURE USED - UNORDERED MAP
 */
 #include <bits/stdc++.h>
 using namespace std;
