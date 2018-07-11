@@ -1,5 +1,5 @@
 /*
-	* ALGORITHM - to find maxuimum product pair
+	* ALGORITHM - to find maximum product pair
 	* AUTHOR - TENSORED
 	* DATE - 11/7/2018
 	* ORDER - O(n)::SINGLE TRAVERSAL
